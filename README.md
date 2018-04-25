@@ -23,7 +23,7 @@
     <li>css</li>
 </ol>
 
-<p style="color:blue;">Trying inline styling.  Is this blue?</p>
+<p style="color:blue;">Trying inline styling.  Is this blue? No, inline styles don't work either</p>
 
 
   </body>
