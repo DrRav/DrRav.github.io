@@ -24,7 +24,7 @@
     <li>css</li>
 </ol>
 
-<p style="color:blue;">Trying inline styling.  Is this blue? NMevermind, the effects of CSS show up on the website but not the preview</p>
+<p style="color:blue;">Trying inline styling.  Is this blue? Nevermind, the effects of CSS show up on the website but not the preview</p>
 
 
   </body>
