@@ -4,7 +4,9 @@
     <head>
     <meta charset="UTF-8">
     <title>title</title>
-    p {color:red;}    
+    <style>    
+    p {color:red;}   
+        </style>     
   </head>
     <body>
 <!--1st attempt at building and hosting a website from GitHub-->
