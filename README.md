@@ -20,7 +20,7 @@
 <ol>
     <li>looks like</li>
     <li>html works but not </li>
-    </i>css</li>
+    <li>css</li>
 </ol>
 
 
