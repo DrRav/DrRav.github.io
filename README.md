@@ -1,5 +1,6 @@
-# DrRav.github.io
 <!DOCTYPE html>
+# DrRav.github.io
+
 <html>
     <head>
     <meta charset="UTF-8">
@@ -23,7 +24,7 @@
     <li>css</li>
 </ol>
 
-<p style="color:blue;">Trying inline styling.  Is this blue? No, inline styles don't work either</p>
+<p style="color:blue;">Trying inline styling.  Is this blue? NMevermind, the effects of CSS show up on the website but not the preview</p>
 
 
   </body>
