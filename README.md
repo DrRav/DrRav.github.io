@@ -16,7 +16,7 @@
 <!--What wasn't clear was the distinction from working on GitHub and working your own computer.  Why do I need to go to my own computer to make a website?-->
 
 <!--Not sure if my html will interpreted simply as text. --> 
-<p>Let's try a paragraph and some CSS.  If this is red then the CSS didn't implement</p> 
+<p>Let's try a paragraph and some CSS.  If this is not red then the CSS didn't implement</p> 
 <ol>
     <li>looks like</li>
     <li>html works but not </li>
