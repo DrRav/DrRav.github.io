@@ -23,6 +23,8 @@
     <li>css</li>
 </ol>
 
+<p style="color:blue;">Trying inline styling.  Is this blue?</p>
+
 
   </body>
 </html>
