@@ -21,7 +21,7 @@
 <ol>
     <li>looks like</li>
     <li>html works but not </li>
-    <li>css</li>
+    <li>css...no necer ind, the css is working on the deployed webpage</li>
 </ol>
 
 <p style="color:blue;">Trying inline styling.  Is this blue? Nevermind, the effects of CSS show up on the website but not the preview</p>
